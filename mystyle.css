@@ -1,0 +1,20 @@
+
+h1 {
+	color: navy;
+	text-align: center;
+	font-family: "Tahoma", "Geneva", sans-serif;
+	font-size: 40px;
+}
+
+body{
+	background: #99ffff;
+}
+
+p{
+	font-size: 30px;
+	text-align: center;
+	font-family: "merriweather sans-serif", "Geneva", sans-serif;
+}
+.bball {
+	align="200";
+}
